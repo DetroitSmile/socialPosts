@@ -1,0 +1,74 @@
+body {
+  background-color: #f3f1f7;
+  font-family: "dosis", sans-serif;
+}
+
+.toptitle {
+  font-family: "homemade apple", cursive;
+  font-size: 24px;
+  color: rgb(3, 169, 244);
+}
+
+p {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  background-color: #B1DDEA;
+  width: 50%;
+  border: solid 1px black;
+  border-radius: 5px;
+  margin: auto;
+  margin-top: 3%;
+}
+
+.button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+input {
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+div {
+  border: solid 1px black;
+  background-color: white;
+  border-radius: 5px;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+section {
+  align-content: center;
+}
+
+textarea {
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-bottom: 3%;
+}
+
+h1 {
+  border: solid 1px black;
+  align-content: center;
+  display: flex;
+  justify-content: center;
+  margin-left: 10%;
+  margin-right: 10%;
+  background-color: white;
+  border-radius: 5px;
+}
+
+button {
+  margin-right: 10%;
+  margin-left: 10%;
+  margin-bottom: 3%;
+}
+
